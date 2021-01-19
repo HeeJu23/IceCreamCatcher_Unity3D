@@ -31,7 +31,21 @@
 LEVEL이 올라갈수록 아이스크림의 낙하속도가 증가합니다.
 
 ## 사용한 외부에셋
+1._RPGMonsterPartnersPBRPolyart - BeholderPBR prefab_
 
+게임 내에서 몬스터 오브젝트로 사용했습니다.
+
+2._ConeCollider - ConeCollider_
+
+색상 material을 입혀서 아이스크림 콘으로 사용했습니다.
+
+3._Christmas Tree - POLYCRAFT Series - 선물상자, 트리, 보석 등_
+
+게임 맵을 꾸미기 위해 사용했습니다.
+
+4._Snowed Fence - fence_double_
+
+게임 맵을 꾸미기 위해 사용했습니다.
 
 ## 개발 환경
 + Unity3D
