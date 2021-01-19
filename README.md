@@ -31,31 +31,31 @@
 LEVEL이 올라갈수록 아이스크림의 낙하속도가 증가합니다.
 
 ## 사용한 외부에셋
-1._RPGMonsterPartnersPBRPolyart - BeholderPBR prefab_
-
-![image](https://user-images.githubusercontent.com/77602511/105014506-decb1980-5a83-11eb-8bd4-c2dceaba61d1.png)
+1. _RPGMonsterPartnersPBRPolyart - BeholderPBR prefab_
 
 게임 내에서 몬스터 오브젝트로 사용했습니다.
 
-2._ConeCollider - ConeCollider_
-
-![image](https://user-images.githubusercontent.com/77602511/105014646-05895000-5a84-11eb-9e5f-2a0eaa6a4ca0.png)
-
+![image](https://user-images.githubusercontent.com/77602511/105014506-decb1980-5a83-11eb-8bd4-c2dceaba61d1.png)
+---
+2. _ConeCollider - ConeCollider_
 
 색상 material을 입혀서 아이스크림 콘으로 사용했습니다.
 
-3._Christmas Tree - POLYCRAFT Series - 선물상자, 트리, 보석 등_
+![image](https://user-images.githubusercontent.com/77602511/105014646-05895000-5a84-11eb-9e5f-2a0eaa6a4ca0.png)
+---
+3. _Christmas Tree - POLYCRAFT Series - 선물상자, 트리, 보석 등_
+
+게임 맵을 꾸미기 위해 사용했습니다.
 
 ![image](https://user-images.githubusercontent.com/77602511/105014688-120da880-5a84-11eb-8251-e1d16ed1d474.png)
 ![image](https://user-images.githubusercontent.com/77602511/105014702-15a12f80-5a84-11eb-956a-173550e8c4cf.png)
+---
+4. _Snowed Fence - fence_double_
 
 게임 맵을 꾸미기 위해 사용했습니다.
-
-4._Snowed Fence - fence_double_
 
 ![image](https://user-images.githubusercontent.com/77602511/105014728-1cc83d80-5a84-11eb-8009-d9d478e061bb.png)
-
-게임 맵을 꾸미기 위해 사용했습니다.
+---
 
 ## 개발 환경
 + Unity3D
