@@ -1,5 +1,7 @@
 # 🍦아이스크림 볼 캐치
 
+![image](https://user-images.githubusercontent.com/77602511/105015700-27cf9d80-5a85-11eb-8048-0f796e7dc883.png)
+
 ## 게임 개요
 3D 평면으로 떨어지는 아이스크림 볼을 제시된 이미지에 따라 콘에 받는 게임입니다.
 
