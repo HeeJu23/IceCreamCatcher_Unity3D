@@ -30,6 +30,9 @@
 
 LEVEL이 올라갈수록 아이스크림의 낙하속도가 증가합니다.
 
+## 시연 영상
+
+
 ## 사용한 외부에셋
 1. _RPGMonsterPartnersPBRPolyart - BeholderPBR prefab_
 
@@ -62,3 +65,6 @@ LEVEL이 올라갈수록 아이스크림의 낙하속도가 증가합니다.
 + Visual Studio 2019
 
 ## 발전 방향
+
+## 프로젝트 참여 인원
+1명
