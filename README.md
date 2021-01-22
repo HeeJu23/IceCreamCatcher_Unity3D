@@ -35,7 +35,7 @@
 LEVEL이 올라갈수록 아이스크림의 낙하 속도가 증가합니다.
 
 ## 시연 영상
-[Youtube Url](https://youtu.be/0vylodXlG1g)
+[Youtube url](https://youtu.be/0vylodXlG1g)
 
 ## 개발 환경
 + Unity3D
